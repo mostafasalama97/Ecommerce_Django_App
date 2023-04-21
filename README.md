@@ -21,3 +21,6 @@ Requirements:
 	5- Products should be able to be added, edited and deleted through DRF's API endpoints.
 	6- Users should be able to create an account, update their profile, and view their order history through DRF's API endpoints. 
 	7- The checkout system should collect user information, shipping details, and payment information through DRF's API endpoints.
+
+@mohamedkamalyacine@gmail.com
+great thanks for best friend for this creative and hard work 
